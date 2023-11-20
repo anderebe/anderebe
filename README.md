@@ -1,5 +1,11 @@
 ### Hi there 👋 I'm Emil!
 
+
+About me:
+
+I am a Computer Science Engineer student from Norway
+
+🔭 I’m studying to become a computer science engineer at NTNU.
 <!--
 **anderebe/anderebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
