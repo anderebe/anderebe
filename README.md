@@ -1,9 +1,11 @@
-##Hello! My name is Emil!
+## Hello! My name is Emil!
 
-##About me:
+## About me:
+<p align="center">
 I am a Computer Science Engineer student from Norway
 
-🔭 I’m studying to become a computer science engineer at NTNU.
+- 🔭 I’m studying to become a computer science engineer at NTNU.
+style="vertical-align:top; margin:4px"></a>
 </p>
 
 ## ✉️ Find me on:
