@@ -2,12 +2,10 @@
 
 ## About me:
 <p align="center">
- <a
-
 I am a Computer Science Engineer student from Norway
 - 🔭 I’m studying to become a computer science engineer at NTNU.
-style="vertical-align:top; margin:4px"></a>
-</p>
+<p/>
+
 
 ## ✉️ Find me on:
 <p align="center">
